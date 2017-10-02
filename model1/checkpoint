@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/arpit/Desktop/Traffic-Sign-Classification/model1/model"
+all_model_checkpoint_paths: "/home/arpit/Desktop/Traffic-Sign-Classification/model1/model"
